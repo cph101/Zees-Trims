@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.cph.supplementary_one.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "Supplementary1ModRepairItemRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "supplementary_1.refmap.json"
+}
