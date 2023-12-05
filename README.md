@@ -1,6 +1,6 @@
 # Zee's Trims
 
-This mod aims to implement some armor trims made by [SystemZee](https://www.youtube.com/@syszee), as well as his [Rainbow "Jeb" trims](https://youtu.be/MEwsfdl_zzk?t=1750&si=qBTxGidL4Jzsb392). No, I have not been given explicit permission to reuse a lot of his assets, but the experimental mod's license was MIT, which states that I may "modify and redistribute the software".
+This fabric mod aims to implement some armor trims made by [SystemZee](https://www.youtube.com/@syszee), as well as his [Rainbow "Jeb" trims](https://youtu.be/MEwsfdl_zzk?t=1750&si=qBTxGidL4Jzsb392). No, I have not been given explicit permission to reuse a lot of his assets, but the experimental mod's license was MIT, which states that I may "modify and redistribute the software".
 
 ## Planned Features
 - [x] "Jeb" armor trims (rainbow shader)
@@ -19,3 +19,8 @@ Unless I see an extremely high demand for a particular version, no - I see no po
 
 ### When are you going to update to 1.x.x?
 I will do when/if I have spare time.
+
+### Can you port it to another modloader?
+Neoforge: Definitely not, for the reason outlined below. No compromises.
+Forge: Probably not, due to the terrible usability of the forge ecosystem, but here's hoping.
+Quilt: It's a fabric mod, I've tested and run it on quilt, and so can you :D
