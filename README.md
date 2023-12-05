@@ -21,3 +21,4 @@ Unless I see an extremely high demand for a particular version, no - I see no po
 I will do when/if I have spare time.
 
 ## History
+While browsing on youtube (totally not addicted), I stumbled across [this video](https://youtu.be/MEwsfdl_zzk?t=1750&si=qBTxGidL4Jzsb392) by SystemZee, and I immediately knew I NEEDED those smooth trims. So I tapped that "Join" button, and bought myself a developer's pass. However, the rainbow trims turned out to just replace quartz, so I decompressed the resource pack, and did a little modding. So yeah, that's basically it XD
