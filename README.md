@@ -1,6 +1,6 @@
 # Zee's Trims
 
-This fabric mod aims to implement some armor trims made by [SystemZee](https://www.youtube.com/@syszee), as well as his [Rainbow "Jeb" trims](https://youtu.be/MEwsfdl_zzk?t=1750&si=qBTxGidL4Jzsb392). No, I have not been given explicit permission to reuse a lot of his assets, but the experimental mod's license was MIT, which states that I may "modify and redistribute the software".
+This fabric mod aims to implement some armor trims made by [SystemZee](https://www.youtube.com/@syszee), as well as his [Rainbow "Jeb" trims](https://youtu.be/MEwsfdl_zzk?t=1750&si=qBTxGidL4Jzsb392). No, I have not been given explicit permission to reuse a few assets, but the experimental mod's license was MIT, which states that I may "modify and redistribute the software".
 
 ## Planned Features
 - [x] "Jeb" armor trims (rainbow shader)
