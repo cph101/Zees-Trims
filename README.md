@@ -11,13 +11,13 @@ This mod aims to implement some armor trims made by [SystemZee](https://www.yout
 
 ## FAQs
 
-#### Who gave you permission to make this?
+### Who gave you permission to make this?
 I have not been given explicit permission to reuse a lot of his assets, but the experimental mod's license was MIT, which states that I may "modify and redistribute the software".
 
-#### Will you backport this mod to 1.x.x?
+### Will you backport this mod to 1.x.x?
 Unless I see an extremely high demand for a particular version, no - I see no point in creating mods for versions no one uses, and it requires a lot of effort to migrate the code between versions, and to maintain those for new mod releases.
 
-#### When are you going to update to 1.x.x?
+### When are you going to update to 1.x.x?
 I will do when/if I have spare time.
 
 ## History
