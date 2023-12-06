@@ -7,6 +7,8 @@ This fabric mod aims to implement some armor trims made by [SystemZee](https://w
 - Add echo shard as trimmable material
 - Add custom trims (frost, shaft, dive, marsh, villager)
 
+## The trims
+![All the armor trims lol](https://github.com/cph101/Zees-Trims/assets/93673699/d6adef53-ff37-4415-bd92-c832ff3d6805)
 
 ## FAQs
 
